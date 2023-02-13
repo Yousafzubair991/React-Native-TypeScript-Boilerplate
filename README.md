@@ -1,5 +1,5 @@
-# React Native + TypeScript Template
-This is a React Native + TypeScript template that can be used as a starting point for your mobile app development. The template is based on the latest version of React Native and includes all the essential features, folder structure and configurations you need to get started.
+# React Native + TypeScript Boilerplate
+This is a React Native + TypeScript boilerplate that can be used as a starting point for your mobile app development. The template is based on the latest version of React Native and includes all the essential features, folder structure and configurations you need to get started.
 
 ## Features 🎉
 - TypeScript
